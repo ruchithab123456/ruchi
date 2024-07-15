@@ -1,4 +1,3 @@
-# ruchi
-a=20
-b=30
+a=10
+b=20
 print a+b
